@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Jiaxian Shen'
 ---
 
 ```{r setup, include=FALSE}
@@ -45,8 +45,8 @@ Creates the first paragraph that is split into three seperate columns (one that 
            margin-left: auto;
            margin-right: auto;
            width: 200%;"
-    src="assets/photos/Main_photo.png" 
-    alt="Jacob and his dog Finnigan">
+    src="assets/photos/profile.JPG" 
+    alt="Profile picture">
 </img>
 
 
@@ -63,9 +63,8 @@ Final column that contains the main text for the webpage
 
 <font size="20"> About </font>
 
-<font size="5"> I am Finnigan a dog that has no job but wants to work in the [Department of Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/) under the supervision of [Dr. Curtis Huttenhower](https://huttenhower.sph.harvard.edu/home).
+<font size="5"> I am postdoctoral research fellow at [CTEU at Massachusetts General Hospital](https://www.mghcteu.org/) and  [Department of Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/). I am co-advised by [Dr. Long Nguyen](https://scholar.google.com/citations?user=TPxUN8EAAAAJ&hl=en), [Dr. Curtis Huttenhower](https://huttenhower.sph.harvard.edu/home), and [Dr. Andrew Chan](https://researchers.mgh.harvard.edu/profile/239720/Andrew-Chan).
 
-My research is currently focused on how to get my owners to give me as many dental sticks as possible. I also enjoy long walks in the woods and playing at the dog park. I have a sister named Mango who can be mean to me at times but I still love her very much  </font>
 
 :::
 ::::
@@ -102,21 +101,15 @@ Add Icons of your choice... look at https://fontawesome.com/ for options that yo
 Currently they all link google.com so replace google.com with whatever you want to link to
 -->
 <p style="text-align: center;">
-    <a href="google.com" class="fa fa-twitter" style="font-size:50px;"></a>
-    <a href="google.com" class="fa fa-github" style="font-size:50px;"></a>
-    <a href="google.com" class="fa fa-graduation-cap"
-style="font-size:50px;"></a>
+    <a href="https://www.linkedin.com/in/jiaxian-shen-91824a118/" class="fa fa-linkedin" style="font-size:50px;"></a>
+    <a href="https://twitter.com/shen_jiaxian" class="fa fa-twitter" style="font-size:50px;"></a>
+    <a href="https://scholar.google.com/citations?user=aysvAvoAAAAJ&hl=en" class="fa fa-google-scholar" style="font-size:50px;"></a>
+    <a href="https://github.com/jxshen311/" class="fa fa-github" style="font-size:50px;"></a>
+
 <!---
 Add in photo of your email here... photos are preferable so they don't get web scrapped and you end up with a ton of spam...
 -->  
-    <img 
-        style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 30%;"
-    src="assets/photos/Email.png" 
-    alt="Photo of email">
-<font size="2">  This webpage was made with the help from Jacob T. Nearing's template at: X</font>
+<font size="4"> Email: jshen19@mgh.harvard.edu </font>
 </p>
 </h1>
 

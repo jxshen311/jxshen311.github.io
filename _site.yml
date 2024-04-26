@@ -1,7 +1,7 @@
-name: "X's Personal Website"
+name: "Jiaxian Shen's Personal Website"
 output_dir: "docs"
 navbar:
-  title: "Finnigan Nearing"
+  title: "Jiaxian Shen"
   left:
     - text: "Home"
       href: index.html
